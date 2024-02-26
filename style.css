@@ -1,0 +1,24 @@
+.p1{
+	text-decoration:underline;
+}
+.p2{
+	text-decoration:underline;
+	color: green;
+}
+.p3{
+	text-decoration:underline;
+	color:blue;
+}
+.p4{
+	text-decoration:underline;
+	color: red;
+}
+.p5{
+	text-decoration:underline;
+	text-align: : center;
+	margin-left:25%;
+}
+.p6{
+	font-size: 2em;
+	font-family: Arial, Helvetica, sans-serif
+}
